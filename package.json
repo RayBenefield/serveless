@@ -1,7 +1,7 @@
 {
     "name": "serveless",
     "description": "Serverless Framework written functionally without classes.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/RayBenefield/serveless",
     "author": {
         "name": "Raymond Benefield",
